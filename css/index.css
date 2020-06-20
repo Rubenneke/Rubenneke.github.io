@@ -1,5 +1,7 @@
 body, html {
-
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
 }
 
 body {
@@ -7,9 +9,11 @@ body {
   background-image: url("../images/banner.jpg");
 
   /* Full height and width */
-
+  height: 100%;
+  width: 100%;
 
 
   /* Center and scale the image nicely */
-
+  background-repeat: no-repeat;
+  background-size: cover;
 }
