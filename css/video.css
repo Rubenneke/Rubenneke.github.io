@@ -1,0 +1,15 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  /* The image used */
+  background-image: url("../images/Achtergrond-video.jpg");
+
+
+  /* Center and scale the image nicely */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
