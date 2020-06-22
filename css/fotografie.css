@@ -24,3 +24,24 @@ a {
 a:hover {
   color: yellow;
 }
+
+.title {
+  font-family: "Impact";
+  font-size: 50px;
+}
+
+.sidenav {
+  width: 25%;
+  float: left;
+  height: 100%;
+}
+
+.Main {
+  margin-top: 5%;
+  width: 35%;
+  font-size: 75%;
+  float: left;
+  height: 100%;
+  font-family: 'Courier New';
+
+}
