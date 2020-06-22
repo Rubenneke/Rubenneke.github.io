@@ -31,7 +31,7 @@ a:hover {
 }
 
 .sidenav {
-  width: 25%;
+  width: 24.6%;
   float: left;
   height: 100%;
 }
@@ -44,4 +44,13 @@ a:hover {
   height: 100%;
   font-family: 'Arial';
 
+}
+
+.terug {
+  font-weight: bold;
+}
+
+.categorie {
+  color: white;
+  font-family: 'Arial';
 }
