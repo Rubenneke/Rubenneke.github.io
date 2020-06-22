@@ -20,3 +20,7 @@ a {
   color: white;
   font-family: 'Courier New';
 }
+
+a:hover {
+  color: yellow;
+}
