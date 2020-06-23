@@ -1,0 +1,56 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  /* The image used */
+  background-image: url("../images/achtergronden/Achtergrond-blanco.jpg");
+
+
+  /* Center and scale the image nicely */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: white;
+  font-family: 'Arial';
+}
+
+a:hover {
+  color: yellow;
+}
+
+.title {
+  font-family: "Impact";
+  font-size: 50px;
+}
+
+.sidenav {
+  width: 24.6%;
+  float: left;
+  height: 100%;
+}
+
+.Main {
+  margin-top: 5%;
+  width: 35%;
+  font-size: 75%;
+  float: left;
+  height: 100%;
+  font-family: 'Arial';
+
+}
+
+.terug {
+  font-weight: bold;
+}
+
+.categorie {
+  color: white;
+  font-family: 'Arial';
+}
