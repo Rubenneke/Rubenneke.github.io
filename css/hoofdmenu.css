@@ -26,11 +26,3 @@ a {
 a:hover {
   color: yellow;
 }
-
-.copyright {
-  margin-top: 40%;
-  font-family: 'Lucida Console';
-  color: green;
-  margin-left: 1px;
-
-}
