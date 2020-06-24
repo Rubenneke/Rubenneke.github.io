@@ -56,11 +56,11 @@ a:hover {
 }
 
 .container {
-  margin-left: 43%;
-  margin-top: 20px;
+  margin-left: 30%;
+  margin-top: -15%;
   position: relative;
-  width: 125%;
-  height: 25%;
+  width: 150%;
+  height: 50%;
   padding-bottom: 40%;
   background: #4c4c4c;
   border: solid 10px #2c2c2c;
