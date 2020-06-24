@@ -81,7 +81,8 @@ a:hover {
 
 }
 
-#i1, #i2, #i3, #i4 {
+#i1, #i2, #i3, #i4, #i5, #i6, #i7, #i8, #i9, #i10,
+#i11, #i12, #i13, #i14, #i15, #i16, #i17, #i18, #i19, #i20, #i21, #i22 {
   display: none;
 }
 
@@ -128,13 +129,26 @@ label p {
 #i1:checked ~ #one,
 #i2:checked ~ #two,
 #i3:checked ~ #three,
-#i4:checked ~ #four
-
- {
+#i4:checked ~ #four, 
+#i5:checked ~ #five, 
+#i6:checked ~ #six, 
+#i7:checked ~ #seven, 
+#i8:checked ~ #eight,
+#i9:checked ~ #nine ,
+#i10:checked ~ #ten,
+#i11:checked ~ #eleven, 
+#i12:checked ~ #twelve,
+#i13:checked ~ #thirteen,
+#i14:checked ~ #fourteen, 
+#i15:checked ~ #fifteen,
+#i16:checked ~ #sixteen, 
+#i17:checked ~ #seventeen 
+#i18:checked ~ #eighteen,
+#i19:checked ~ #nineteen,
+#i20:checked ~ #twenty,
+#i21:checked ~ #twentyone,
+#i22:checked ~ #twentytwo {
   z-index: 9;
 }
 
-#i1:checked ~ .nav #dot1,
-#i2:checked ~ .nav #dot2 {
-  background: #fff;
-}
+
