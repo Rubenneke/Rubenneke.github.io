@@ -81,7 +81,7 @@ a:hover {
 
 }
 
-#i1, #i2 {
+#i1, #i2, #i3, #i4 {
   display: none;
 }
 
@@ -126,7 +126,11 @@ label p {
 }
 
 #i1:checked ~ #one,
-#i2:checked ~ #two {
+#i2:checked ~ #two,
+#i3:checked ~ #three,
+#i4:checked ~ #four
+
+ {
   z-index: 9;
 }
 
