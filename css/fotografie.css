@@ -21,6 +21,11 @@ a {
   font-family: 'Arial';
 }
 
+
+.terug {
+  font-weight: bold;
+}
+
 a:hover {
   color: yellow;
 }
