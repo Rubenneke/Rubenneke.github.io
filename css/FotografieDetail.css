@@ -81,7 +81,7 @@ a:hover {
 
 }
 
-#i1, #i2, #i3, #i4, #i5, #i6, #i7, #i8, #i9, #i10, #i11, #i12, #i13, #i14, #i15, #i16, #i17, #i18, #i19, #i20, #i21, #i22, #i23 {
+#i1, #i2, #i3, #i4, #i5, #i6, #i7, #i8, #i9, #i10, #i11, #i12, #i13, #i14, #i15, #i16, #i17, #i18, #i19, #i20, #i21, #i22, #i23, #i24, #i25, #i26, #i27, #i28, #i29, #i30, #i31, #i32, #i33, #i34, #i35, #i36, #i37, #i38, #i39, #i40, #i41 {
   display: none;
 }
 
@@ -147,7 +147,25 @@ label p {
 #i20:checked ~ #twenty,
 #i21:checked ~ #twentyone,
 #i22:checked ~ #twentytwo,
-#i23:checked ~ #twentythree {
+#i23:checked ~ #twentythree,
+#i24:checked ~ #twentyfour,
+#i25:checked ~ #twentyfive,
+#i26:checked ~ #twentysix,
+#i27:checked ~ #twentyseven, 
+#i28:checked ~ #twentyeight,
+#i29:checked ~ #twentynine,
+#i30:checked ~ #thirty,
+#i31:checked ~ #thirtyone,
+#i32:checked ~ #thirtytwo,
+#i33:checked ~ #thirtythree,
+#i34:checked ~ #thirtyfour,
+#i35:checked ~ #thirtyfive,
+#i36:checked ~ #thirtysix,
+#i37:checked ~ #thirtyseven,
+#i38:checked ~ #thirtyeight,
+#i39:checked ~ #thirtynine,
+#i40:checked ~ #fourty,
+#i41:checked ~ #fourtyone {
   z-index: 9;
 }
 
