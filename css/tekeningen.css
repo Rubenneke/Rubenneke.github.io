@@ -43,10 +43,11 @@ a:hover {
 .Main {
   margin-top: 5%;
   width: 35%;
-  font-size: 75%;
+  font-size: 100%;
   float: left;
   height: 100%;
   font-family: 'Arial';
+  font-weight: bold;
 }
 
 
