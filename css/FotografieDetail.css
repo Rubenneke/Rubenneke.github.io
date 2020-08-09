@@ -73,13 +73,14 @@ a:hover {
 
 }
 
-.slide_img img {
+.slide_img img, iframe {
   margin-top: 10%;
   width: 76%;
   height: 75%;
   margin-left: 12%;
 
 }
+
 
 #i1, #i2, #i3, #i4, #i5, #i6, #i7, #i8, #i9, #i10, #i11, #i12, #i13, #i14, #i15, #i16, #i17, #i18, #i19, #i20, #i21, #i22, #i23, #i24, #i25, #i26, #i27, #i28, #i29, #i30, #i31, #i32, #i33, #i34, #i35, #i36, #i37, #i38, #i39, #i40, #i41 {
   display: none;
@@ -128,20 +129,20 @@ label p {
 #i1:checked ~ #one,
 #i2:checked ~ #two,
 #i3:checked ~ #three,
-#i4:checked ~ #four, 
-#i5:checked ~ #five, 
-#i6:checked ~ #six, 
-#i7:checked ~ #seven, 
+#i4:checked ~ #four,
+#i5:checked ~ #five,
+#i6:checked ~ #six,
+#i7:checked ~ #seven,
 #i8:checked ~ #eight,
 #i9:checked ~ #nine,
 #i10:checked ~ #ten,
-#i11:checked ~ #eleven, 
+#i11:checked ~ #eleven,
 #i12:checked ~ #twelve,
 #i13:checked ~ #thirteen,
-#i14:checked ~ #fourteen, 
+#i14:checked ~ #fourteen,
 #i15:checked ~ #fifteen,
-#i16:checked ~ #sixteen, 
-#i17:checked ~ #seventeen, 
+#i16:checked ~ #sixteen,
+#i17:checked ~ #seventeen,
 #i18:checked ~ #eighteen,
 #i19:checked ~ #nineteen,
 #i20:checked ~ #twenty,
@@ -151,7 +152,7 @@ label p {
 #i24:checked ~ #twentyfour,
 #i25:checked ~ #twentyfive,
 #i26:checked ~ #twentysix,
-#i27:checked ~ #twentyseven, 
+#i27:checked ~ #twentyseven,
 #i28:checked ~ #twentyeight,
 #i29:checked ~ #twentynine,
 #i30:checked ~ #thirty,
