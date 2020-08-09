@@ -8,7 +8,6 @@ body {
   /* The image used */
   background-image: url("../images/achtergronden/Achtergrond-blanco.jpg");
 
-
   /* Center and scale the image nicely */
   background-repeat: no-repeat;
   background-size: cover;
@@ -56,5 +55,5 @@ a:hover {
 }
 
 .email {
-  color: #0000EE; 
+  color: #0000EE;
 }

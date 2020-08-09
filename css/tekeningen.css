@@ -8,7 +8,6 @@ body {
   /* The image used */
   background-image: url("../images/achtergronden/Achtergrond-tekeningen.jpg");
 
-
   /* Center and scale the image nicely */
   background-repeat: no-repeat;
   background-size: cover;
@@ -49,7 +48,6 @@ a:hover {
   font-family: 'Arial';
   font-weight: bold;
 }
-
 
 .categorie {
   color: white;

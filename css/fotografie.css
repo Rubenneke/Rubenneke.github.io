@@ -8,7 +8,6 @@ body {
   /* The image used */
   background-image: url("../images/achtergronden/Achtergrond-fotografie.jpg");
 
-
   /* Center and scale the image nicely */
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,7 +19,6 @@ a {
   color: white;
   font-family: 'Arial';
 }
-
 
 .terug {
   font-weight: bold;
@@ -49,7 +47,6 @@ a:hover {
   height: 100%;
   font-weight: bold;
   font-family: 'Arial';
-
 }
 
 .terug {
